@@ -1,0 +1,89 @@
+body{
+    text-align:center;
+   
+}
+marquee{
+   
+    background-color: aquamarine;
+}
+#contact img{
+    height: 200px;
+    width: 200px; 
+}
+#p1{
+    height: 400px;
+    width: 100%;
+    border-radius: 10%;
+        border-style: solid;
+    border-color: blue;
+    border-width:5px;
+
+}
+#p2{
+    height: 400px;
+    width: 100%;
+    border-radius: 10%;
+        border-style: solid;
+    border-color: blue;
+     border-width:5px;
+
+}
+#alumni img{
+    height: 400px;
+    width: 80%;
+    margin: 40px auto;
+}
+.modal-body  img{
+    
+    border: 8px;
+    border-style: solid;
+    border-color:orchid;
+   
+   
+   
+}
+.movie_head{
+    width: 100%;
+    margin-bottom: 10px;
+    border-style:solid;
+    border-width: 2px;
+    border-color:darksalmon;
+    
+    
+}
+.book
+{
+  cursor: pointer;
+    border: 1px;
+    border-style: solid;
+    border-color:cadetblue;
+    border-radius: 10px;
+    padding: 4px;
+    
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+.modal-body{
+      text-align: center;
+     background-color: lightgreen;
+     margin: 10px auto;
+    
+}
+
+.img_modal
+  {
+      
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
